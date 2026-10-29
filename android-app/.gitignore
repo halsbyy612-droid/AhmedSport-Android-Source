@@ -1,0 +1,8 @@
+.gradle/
+/local.properties
+/stream-urls.properties
+/build/
+/app/build/
+/captures/
+.externalNativeBuild/
+.cxx/
