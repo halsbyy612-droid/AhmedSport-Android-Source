@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">أحمد سبورت – Ahmed Sport</string>
+    <string name="channel_name">قناة أحمد سبورت 1</string>
+    <string name="fullscreen">ملء الشاشة</string>
+    <string name="exit_fullscreen">الخروج من ملء الشاشة</string>
+    <string name="network_error">تعذر الاتصال بالبث. تحقق من الإنترنت ثم حاول مرة أخرى.</string>
+</resources>
