@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ahmed_background">#07110F</color>
+    <color name="ahmed_surface">#0E1C18</color>
+    <color name="ahmed_surface_raised">#142721</color>
+    <color name="ahmed_green">#19D27C</color>
+    <color name="ahmed_green_dark">#0B8B54</color>
+    <color name="ahmed_red">#FF4D5A</color>
+    <color name="ahmed_text_primary">#F4FFF9</color>
+    <color name="ahmed_text_secondary">#A3B9AE</color>
+    <color name="ahmed_border">#24483B</color>
+</resources>
